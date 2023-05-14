@@ -1,0 +1,62 @@
+body
+{
+    background-color: #F1F6F9;
+}
+img{
+    margin: 15px;
+    margin-right: 51px;
+  
+}
+/* #heder{
+display: inline-block;
+padding: 50px 32px;
+
+} */
+ .heder {
+    display: inline-block;
+    padding: 15px 20px;
+     
+}
+.heder a{
+    font-size:32px;
+font-weight: 600;
+color: #1751A0;
+font-family: headfont;
+text-decoration: none;
+}
+.heder a :visited{
+
+    font-size:32px;
+font-weight: 600;
+color: #19A7CE;
+
+text-decoration: none;
+}
+#imgindex{
+margin-right: 51px;
+}
+@font-face {
+    font-family: pl;
+    src: url(../fonts/Lateef-Medium.ttf);
+}
+p{
+    font-family: pl;
+    font-size: 25px;
+}@font-face {
+    font-family: caiobold;
+    src: url(../fonts/Cairo-Bold.ttf);
+}
+h3{
+    font-family: caiobold;
+    font-size: 30px;
+    color: #48A858;
+    
+}
+@font-face {
+    font-family: headfont;
+    src: url(../fonts/ReemKufi-Bold.ttf);
+}
+pre{
+    font-weight: 500;
+    font-size: 20px;
+}
